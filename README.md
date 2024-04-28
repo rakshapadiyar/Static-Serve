@@ -58,6 +58,9 @@
 - Used DNSchecker.com to verify if the DNS record update has propogated so that the bucket content is rendered when a user browses the domain rakshapadiyar.xyz.
   ![DNSchecker](readme_images/9.png)
 
+- If the user tries to browser any non existing page, the error.html page is displayed as expected.
+  ![error.html](readme_images/11.png)
+
 ## Conclusion
 
 - The website was successfully hosted and was accessible over the domain rakshapadiyar.xyz after the assigned TTL seconds.
