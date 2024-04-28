@@ -64,4 +64,4 @@
   ![final website](readme_images/10.png)
 
 - Website accessed from my mobile phone.
-  <img src="readme_images/ss.png" width="48">
+  <img src="readme_images/ss.png" width="100%" height="200px">
