@@ -63,5 +63,5 @@
 - The website was successfully hosted and was accessible over the domain rakshapadiyar.xyz after the assigned TTL seconds.
   ![final website](readme_images/10.png)
 
-- Website accessed from my mobile phone.
+- Website accessed from my mobile phone.  
   <img src="readme_images/ss.png" width="25%" height="200px">
