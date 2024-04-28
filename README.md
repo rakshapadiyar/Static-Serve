@@ -65,4 +65,3 @@
 
 - Website accessed from my mobile phone.
   <video controls src="readme_images/video.mp4" title="Title"></video>
-  [![Watch the video](readme_images/10.png)](readme_images/video.mp4)
