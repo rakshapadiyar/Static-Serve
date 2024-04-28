@@ -64,4 +64,4 @@
   ![final website](readme_images/10.png)
 
 - Website accessed from my mobile phone.
-  ![mobile screenshot](readme_images/ss.jpg)
+  ![mobile screenshot](readme_images/ss.png)
