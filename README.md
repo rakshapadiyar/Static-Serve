@@ -64,4 +64,4 @@
   ![final website](readme_images/10.png)
 
 - Website accessed from my mobile phone.
-  <video controls src="readme_images/video.mp4" title="Title"></video>
+  <video controls src="video.mp4" title="Title"></video>
