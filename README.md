@@ -64,6 +64,4 @@
   ![final website](readme_images/10.png)
 
 - Website accessed from my mobile phone.
-  <video controls src="video.mp4" title="Title"></video>
-
-  <video src="readme_images/cmprs_video.mp4" width="500px"></video>
+  ![mobile screenshot](readme_images/ss.jpg)
