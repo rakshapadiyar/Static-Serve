@@ -65,3 +65,5 @@
 
 - Website accessed from my mobile phone.
   <video controls src="video.mp4" title="Title"></video>
+
+  <video src="images/gif.gif" width="500px"></video>
