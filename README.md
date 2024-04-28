@@ -66,4 +66,4 @@
 - Website accessed from my mobile phone.
   <video controls src="video.mp4" title="Title"></video>
 
-  <video src="images/gif.gif" width="500px"></video>
+  <video src="readme_images/cmprs_video.mp4" width="500px"></video>
