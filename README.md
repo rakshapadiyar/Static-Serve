@@ -9,12 +9,17 @@
 * A domain (rakshapadiyar.xyz domain from Godaddy domain registrar for this project).
 
 ## Deployment Process
-* Step 1: Built a simple website with HTML and used Bootstrap for styling. Added images of various travel destinations in the website.   
-* Step 2: Created a storage bucket named "www.rakshapadiyar.xyz" (without the double quotes).   
-![created the bucket](mail/1.png)   
-* Step 3: Uploaded all the website files into the bucket directly from Google Cloud console.   
-![uploaded files into bucket](mail/2.png)   
-* Step 4: 
+* **Step 1**: Built a simple website with HTML and used Bootstrap for styling. Added images of various travel destinations in the website. 
+
+* **Step 2**: Created a storage bucket named "www.rakshapadiyar.xyz" (without the double quotes).   
+![created the bucket](readme_images/1.png)   
+
+
+* **Step 3**: Uploaded all the website files into the bucket directly from Google Cloud console.   
+![uploaded files into bucket](readme_images/2.png)   
+
+
+* **Step 4**: 
 ## Configuration Details
 ## Troubleshooting
 ## Resources
