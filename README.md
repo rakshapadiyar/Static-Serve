@@ -65,4 +65,4 @@
 
 - Website accessed from my mobile phone.
   <video controls src="readme_images/video.mp4" title="Title"></video>
-  [![Watch the video](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fitaly.html&psig=AOvVaw1OulYuPjvlD2cOdPIttvby&ust=1714406353118000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCx6r6j5YUDFQAAAAAdAAAAABAE)](readme_images/video.mp4)
+  [![Watch the video](readme_images/10.png)](readme_images/video.mp4)
